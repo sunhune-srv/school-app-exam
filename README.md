@@ -1,4 +1,4 @@
-# auto11410131
+# APP程式設計-期中專題
 
 A new Flutter project.
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## 功能說明
+- 自我介紹
+- 學習歷程
+- 學習計畫
+- 專業方向
